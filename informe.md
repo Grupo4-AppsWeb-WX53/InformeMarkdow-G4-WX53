@@ -32,7 +32,90 @@ Naldo Reupo-Musayon Gastulo
 
 # CONTENT
 
-
+<!-- TOC -->
+* [Grupo 4 - Trabajo de Aplicaciones Web](#grupo-4---trabajo-de-aplicaciones-web)
+    * [Ingeniería de Sistemas y Computación | Ingeniería de Software](#ingeniería-de-sistemas-y-computación--ingeniería-de-software)
+    * [Sección](#sección)
+    * [Profesor](#profesor)
+  * [Reporte TB1](#reporte-tb1)
+    * [Team Members](#team-members)
+  * [Ciclo 2023-02](#ciclo-2023-02)
+* [CONTENT](#content)
+* [STUDENT OUTCOME](#student-outcome)
+* [Cap1 - INTRODUCTION](#cap1---introduction)
+  * [1.1. Startup Profile](#11-startup-profile)
+    * [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    * [1.1.2 Perfiles de los integrantes del equipo](#112-perfiles-de-los-integrantes-del-equipo)
+  * [1.2. Solution Profile](#12-solution-profile)
+    * [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    * [1.2.2. Lean UX Process](#122-lean-ux-process)
+      * [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      * [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      * [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      * [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
+      * [1.2.2.5 Segmentos objetivo](#1225-segmentos-objetivo)
+* [Cap2 - REQUIREMENTS ELICITATION & ANALYSIS](#cap2---requirements-elicitation--analysis)
+  * [2.1. Competidores](#21-competidores)
+    * [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    * [2.1.1. Estrategias y tácticas frente a competidores](#211-estrategias-y-tácticas-frente-a-competidores)
+  * [2.2. Entrevistas](#22-entrevistas)
+    * [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    * [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    * [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  * [2.3. Needfinding](#23-needfinding)
+    * [2.3.1. User Personas](#231-user-personas)
+    * [2.3.2 User Task Matrix](#232-user-task-matrix)
+    * [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    * [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    * [2.3.5 As-is Mapping](#235-as-is-mapping)
+* [3 - REQUIREMENTS SPECIFICATION](#3---requirements-specification)
+  * [3.1. To-be Scenario Mapping](#31-to-be-scenario-mapping)
+  * [3.2. User Stories](#32-user-stories)
+  * [3.3. Impact Mapping](#33-impact-mapping)
+  * [3.4. Product Backlog](#34-product-backlog)
+* [Cap4 - PRODUCT DESIGN](#cap4---product-design)
+  * [4.1. Style Guidelines](#41-style-guidelines)
+    * [4.1.1. General Style Guidelines](#411-general-style-guidelines)
+    * [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
+  * [4.2. Information Architecture](#42-information-architecture)
+    * [4.2.1. Organization Systems](#421-organization-systems)
+    * [4.2.2. Labeling Systems](#422-labeling-systems)
+    * [4.2.3. SEO Tags and Meta Tags](#423-seo-tags-and-meta-tags)
+    * [4.2.4. Searching Systems](#424-searching-systems)
+    * [4.2.5. Navigation Systems](#425-navigation-systems)
+  * [4.3. Landing Page UI Design](#43-landing-page-ui-design)
+    * [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+    * [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
+  * [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
+    * [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
+    * [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
+    * [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+    * [4.4.4. Web Aplications User Flow Diagrams](#444-web-aplications-user-flow-diagrams)
+  * [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
+  * [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
+    * [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
+    * [4.6.2. Software Architecture Container Diagrams](#462-software-architecture-container-diagrams)
+    * [4.6.3. Software Architecture Components Diagrams.](#463-software-architecture-components-diagrams)
+  * [4.7. Software Object Oriented Design](#47-software-object-oriented-design)
+    * [4.7.1. Class Diagrams](#471-class-diagrams)
+    * [4.7.2. Class Dictionary](#472-class-dictionary)
+  * [4.8. Database Design](#48-database-design)
+    * [4.8.1. Database Diagram](#481-database-diagram)
+* [Cap5 - PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT](#cap5---product-implementation-validation--deployment)
+  * [5.1. Software Configuration Management](#51-software-configuration-management)
+    * [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    * [5.1.2. Software Code Management](#512-software-code-management)
+    * [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+    * [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+  * [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+    * [5.2.1. Sprint 1](#521-sprint-1)
+      * [Sprint Planning 1](#sprint-planning-1)
+      * [5.2.1.2. Sprint Backlog](#5212-sprint-backlog)
+      * [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      * [5.2.1.4. Execution Evidence for Sprint Review](#5214-execution-evidence-for-sprint-review)
+      * [5.2.1.5 Software Deployment Evidence for Sprint Review](#5215-software-deployment-evidence-for-sprint-review)
+      * [5.2.1.6 Team Collaboration Insights during Sprint](#5216-team-collaboration-insights-during-sprint)
+<!-- TOC -->
 
 # STUDENT OUTCOME
 
@@ -602,7 +685,7 @@ En el caso del proveedor identificamos las dificultades de dar a conocer su nego
 
 <img src="cap2/as-is-mapping-proveedor.png" width="500">
 
-## 3 - REQUIREMENTS SPECIFICATION
+# 3 - REQUIREMENTS SPECIFICATION
 
 Luego del análisis de la información obtenida en las investigaciones, podremos realizar las especificaciones de los requisitos de los productos digitales. Plantearemos los nuevos scenarios correspondientes para los usuarios haciendo uso de nuestro producto, identificaremos los escenarios donde los usuarios se desempañarán en la aplicación, definiremos los features a trabajar dentro del producto y finalmente definer la lista de trabajo para el equipo de desarrollo en base a los requerimientos.
 
@@ -681,7 +764,7 @@ A continuación, se presentan los Impact Mapping de los User Persona, que hemos 
 |  15   |      TS04      | Implementar integración con Restful API |                           Como desarrollador, quiero implementar la integración con Restful API para obtener datos actualizados.                           |               8                |
 |  16   |      US01      |           Creación de cuenta            |                         **Como** médico **quiero** crear una cuenta dentro de la aplicación **para** ingresar y ver los productos.                         |               8                |
 
-## Cap4 - PRODUCT DESIGN
+# Cap4 - PRODUCT DESIGN
 
 ## 4.1. Style Guidelines
 
@@ -993,7 +1076,7 @@ Link: [**https://my.vertabelo.com/doc/NH6mnVRrTnyZ2X6uNLugyLTNEH3597VT**]
 
 <img src="cap4/vertabelo.jpeg" width="650">
 
-## Cap5 - PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+# Cap5 - PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
 ## 5.1. Software Configuration Management
 
