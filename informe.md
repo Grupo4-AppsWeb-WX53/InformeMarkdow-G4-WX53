@@ -14,7 +14,7 @@ WX53
 
 Naldo Reupo-Musayon Gastulo
 
-## Reporte TB1
+## Reporte TP1
 
 **Nombre del startup:** SoftPage
 
@@ -27,6 +27,7 @@ Naldo Reupo-Musayon Gastulo
 - Sagastegui Rodriguez, Luis Jesus
 - Serrano Uchuya, Gerald Patricio
 - Yen Quispe, Mijael Alexander Imanol
+- Espinoza Paredes, Frezzia Eldaa Isabel
 
 ## Ciclo 2023-02
 
@@ -150,13 +151,14 @@ Nuestra visión es ser la marca líder en vestimenta para médicos, con una repu
 
 ### 1.1.2 Perfiles de los integrantes del equipo
 
-|           Nombre completo           |                                                                                                                                                                                                                                        Descripción                                                                                                                                                                                                                                         |                 Foto                 |
-|:-----------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|
-|    Hidalgo Nicho, Alvaro Rodrigo    | Soy estudiante de Ing. de Software, me gusta el impacto que genera la tecnología en la actualidad y cómo podemos influir en su desarrollo. Me interesa el campo de la inteligencia artificial y actualmente formo parte de un proyecto enfocado en su aplicación. Soy una persona sociable, que gusta de aportar con ideas y tareas con mis equipos. Para el presente trabajo busco aportar con mi equipo en el diseño y desarrollo de los conceptos y aplicativo web de manera constante. | <img src="integrantes/alvaro.jpeg">  |
-|   Saavedra Curi, Lisseth Yahaira    |                                                                       Soy estudiante de la carrera de Ingeniería de Software, me considero una persona organizada, responsable y empática con los proyectos que debo realizar en cada entrega. En mis tiempos libres suelo ir a nadar, manejar bicicleta, escuchar música, programar. Me gusta diseñar e innovar por lo que considero que puedo aportar a mi equipo.                                                                       | <img src="integrantes/lisseth.jpeg"> |
-|  Sagastegui Rodriguez, Luis Jesus   |                                       Mi nombre es Jesus Sagastegui, tengo 20 años y estudio la carrera de Ingenieria de Software. Soy una persona con muchas metas a futuro y con mis objetivos claros, que siempre le gusta aprender algo nueva cada día y sobretodo me gusta trabajar en equipo. Tengo el conocimiento de muchos lenguajes de programacion que espero sean de ayuda para el trabajo colectivo del equipo en este ciclo academico.                                       |  <img src="integrantes/jose.jpeg">   |
-|   Serrano Uchuya, Gerald Patricio   |                                                      Actualmente estudio la carrera de Ingeniería de Software. Estoy dispuesto a trabajar en equipo y aceptar diferentes ideas para obtener los mejores resultados. He usado lenguajes como C++, C#, y JS. Estoy preparado para aprender nuevas tecnologías de utilidad para el proyecto. Planeo trabajar como FullStack Dev y, aunque suponga un reto, estoy dispuesto a superarlo.                                                       | <img src="integrantes/gerald.jpeg">  |
-| Yen Quispe, Mijael Alexander Imanol |                      Estudio la carrera de Ingeniería de Software. Actualmente estoy interesado en el campo de Ciberseguridad por mi trabajo actual, además del Desarrollo de Videojuegos, donde hago desarrollo de mods a modo de hobbie. Tengo experiencia en manejo de bases de datos y en lenguajes como JS, C++, Python, Java y C#. Me considero una persona colaborativa, dispuesta a tomar la iniciativa para la realización de trabajos y proyectos grupales.                      | <img src="integrantes/mijael.jpeg">  |
+|            Nombre completo             |                                                                                                                                                                                                                                        Descripción                                                                                                                                                                                                                                         |                 Foto                 |
+|:--------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------:|
+|     Hidalgo Nicho, Alvaro Rodrigo      | Soy estudiante de Ing. de Software, me gusta el impacto que genera la tecnología en la actualidad y cómo podemos influir en su desarrollo. Me interesa el campo de la inteligencia artificial y actualmente formo parte de un proyecto enfocado en su aplicación. Soy una persona sociable, que gusta de aportar con ideas y tareas con mis equipos. Para el presente trabajo busco aportar con mi equipo en el diseño y desarrollo de los conceptos y aplicativo web de manera constante. | <img src="integrantes/alvaro.jpeg">  |
+|     Saavedra Curi, Lisseth Yahaira     |                                                                       Soy estudiante de la carrera de Ingeniería de Software, me considero una persona organizada, responsable y empática con los proyectos que debo realizar en cada entrega. En mis tiempos libres suelo ir a nadar, manejar bicicleta, escuchar música, programar. Me gusta diseñar e innovar por lo que considero que puedo aportar a mi equipo.                                                                       | <img src="integrantes/lisseth.jpeg"> |
+|    Sagastegui Rodriguez, Luis Jesus    |                                       Mi nombre es Jesus Sagastegui, tengo 20 años y estudio la carrera de Ingenieria de Software. Soy una persona con muchas metas a futuro y con mis objetivos claros, que siempre le gusta aprender algo nueva cada día y sobretodo me gusta trabajar en equipo. Tengo el conocimiento de muchos lenguajes de programacion que espero sean de ayuda para el trabajo colectivo del equipo en este ciclo academico.                                       |  <img src="integrantes/jose.jpeg">   |
+|    Serrano Uchuya, Gerald Patricio     |                                                      Actualmente estudio la carrera de Ingeniería de Software. Estoy dispuesto a trabajar en equipo y aceptar diferentes ideas para obtener los mejores resultados. He usado lenguajes como C++, C#, y JS. Estoy preparado para aprender nuevas tecnologías de utilidad para el proyecto. Planeo trabajar como FullStack Dev y, aunque suponga un reto, estoy dispuesto a superarlo.                                                       | <img src="integrantes/gerald.jpeg">  |
+|  Yen Quispe, Mijael Alexander Imanol   |                      Estudio la carrera de Ingeniería de Software. Actualmente estoy interesado en el campo de Ciberseguridad por mi trabajo actual, además del Desarrollo de Videojuegos, donde hago desarrollo de mods a modo de hobbie. Tengo experiencia en manejo de bases de datos y en lenguajes como JS, C++, Python, Java y C#. Me considero una persona colaborativa, dispuesta a tomar la iniciativa para la realización de trabajos y proyectos grupales.                      | <img src="integrantes/mijael.jpeg">  |
+| Espinoza Paredes, Frezzia Eldaa Isabel |                                                                                                                 Actualmente estudio la carrera de Ingeniería de Software. Tengo bastante conocimiento en varios lenguajes de programación. El campo que más me gusta es el desarrollo de videojuegos. Me considero una persona responsable y comprometida con mis deberes.                                                                                                                 | <img src="integrantes/frezzia.jpeg"> |
 
 ## 1.2. Solution Profile
 
@@ -1108,13 +1110,14 @@ Para gestionar nuestro trabajo y control de versiones durante el desarrollo, pre
 
 Integrantes y las respectivas cuentas en GitHub:
 
-| Nombre                              | Cuenta                                   |
-|-------------------------------------|------------------------------------------|
-| Hidalgo Nicho, Alvaro Rodrigo       | https://github.com/Rodrigo-Hidalgo-Nicho |
-| Saavedra Curi, Lisseth Yahaira      | https://github.com/lissethsaavedra       |
-| Sagastegui Rodriguez, Luis Jesus    | https://github.com/JesusRodriguez7       |
-| Serrano Uchuya, Gerald Patricio     | https://github.com/Anizito               |
-| Yen Quispe, Mijael Alexander Imanol | https://github.com/lissethsaavedra       |
+| Nombre                                 | Cuenta                                   |
+|----------------------------------------|------------------------------------------|
+| Hidalgo Nicho, Alvaro Rodrigo          | https://github.com/Rodrigo-Hidalgo-Nicho |
+| Saavedra Curi, Lisseth Yahaira         | https://github.com/lissethsaavedra       |
+| Sagastegui Rodriguez, Luis Jesus       | https://github.com/JesusRodriguez7       |
+| Serrano Uchuya, Gerald Patricio        | https://github.com/Anizito               |
+| Yen Quispe, Mijael Alexander Imanol    | https://github.com/lissethsaavedra       |
+| Espinoza Paredes, Frezzia Eldaa Isabel | https://github.com/fflushh               |
 
 Los siguientes links corresponde a los repositorios del grupo, donde trabajaremos los avances del proyecto:
 
@@ -1552,7 +1555,7 @@ A continuación, se presenta el cuadro de resumen del sprint planning meeting.
 | Sprint 1 Velocity               | 25                                              |
 | Sum of Story Points             | 17                                              |
 
-#### 5.2.1.2. Sprint Backlog
+#### 5.2.1.2. Sprint Backlog 1
 
 El objetivo principal del Sprint 1 es desplegar el sitio web estático (Landing Page).
 
@@ -1581,7 +1584,7 @@ Tablero en Trello: https://trello.com/b/eFhQyOqk/sprint-1
 <tr><td colspan="1">TB</td><td colspan="1">Footer</td><td colspan="1">Implementar Footer section con css</td><td colspan="1">2</td><td colspan="1">Alvaro Rodrigo Hidalgo</td><td colspan="1">Done</td></tr>
 </table>
 
-#### 5.2.1.3. Development Evidence for Sprint Review
+#### 5.2.1.3. Development Evidence for Sprint Review 1
 
 En este Sprint se realizó el despliegue del Landing Page.
 
@@ -1595,13 +1598,13 @@ En este Sprint se realizó el despliegue del Landing Page.
 | https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | 763b3c690dd372ef610011845a7adf879df108a3 | Update style.css        | 08/09/2023          |
 | https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | 79a7d73eb1e18583133d3ffa211233e473027aec | Update style.css        | 08/09/2023          |
 
-#### 5.2.1.4. Execution Evidence for Sprint Review
+#### 5.2.1.4. Execution Evidence for Sprint Review 1
 
 En este Sprint, se dividió la programación del Landing Page y se subió a GitHub Pages.
 
 <img src="cap5/deploy.jpeg" width="850">
 
-#### 5.2.1.5 Software Deployment Evidence for Sprint Review
+#### 5.2.1.5 Software Deployment Evidence for Sprint Review 1
 
 Se hizo el despliegue en GitHub Pages
 
@@ -1609,6 +1612,84 @@ Link: https://grupo4-appsweb-wx53.github.io/LandingPage-Project/
 
 <img src="cap5/deploy-evidence.png" width="850">
 
-#### 5.2.1.6 Team Collaboration Insights during Sprint
+#### 5.2.1.6 Team Collaboration Insights during Sprint 1
 
 <img src="cap5/insights.png" width="950">
+
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+
+| Sprint #                        | Sprint 2                                             |
+|:--------------------------------|:-----------------------------------------------------|
+| Sprint Planning Background      |                                                      |
+| Date                            | 21/09/2023                                           |
+| Time                            | 16:00 horas                                          |
+| Location                        | Virtual (Discord)                                    |
+| Prepared By                     | Mijael Yen Quispe                                    |
+| Attendees (to planning meeting) | Todo el equipo                                       |
+| Sprint 1 Review Summary         | Entrega del LandingPage desplegado en GitHub Pages   |
+| Sprint 1 Retrospective Summary  | Todo el grupo está satisfecho con el resultado       |
+| Sprint 2 Goal                   | Desplegar Frontend Application en su primera versión |
+| Sprint 2 Velocity               | 37                                                   |
+| Sum of Story Points             | 26                                                   |
+
+#### 5.2.2.2. Sprint Backlog 2
+
+El objetivo principal del Sprint 2 es desplegar la primera versión del Frontend Application.
+
+Tablero en Trello: https://trello.com/b/rWNvKuEh/sprint-2-tp1
+
+<img src="cap5/sprint2/trello-tp1.png" width="850">
+
+<table>
+<tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 2</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation (Hours)</td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-do / In-Process/To-Review/Done)</td></tr>
+<tr><td colspan="1" rowspan="3">US11</td><td colspan="1" rowspan="3">Vistas de Inicio</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Diseñar la vista Home:</td><td colspan="1" valign="top">Crear una interfaz visualmente atractiva y agradable para la vista Home.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Interfaz home</td><td colspan="1" valign="top">Mostrar información relevante en la vista Home.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Conexión con componentes</td><td colspan="1" valign="top">Conectar la vista Home con otros componentes o funcionalidades necesarias en la aplicación.</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3">US12</td><td colspan="1" rowspan="3">Vista Personal Data</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz Personal Data</td><td colspan="1" valign="top">Crear una interfaz intuitiva y fácil de usar para la vista de datos personales.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Gerald Serrano</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Formulario Personal-Data</td><td colspan="1" valign="top">Diseñar formularios o campos adecuados para mostrar y editar la información personal del usuario.</td><td colspan="1" valign="top">7</td><td colspan="1" valign="top">Gerald Serrano</td><td colspan="1" valign="top">In-process</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Edición Personal Data</td><td colspan="1" valign="top">Permitir la edición de la información personal y asegurarse de que los cambios se reflejen correctamente en el sistema.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Gerald Serrano</td><td colspan="1" valign="top">In-process</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US06</td><td colspan="1" rowspan="2" valign="top">Filtros de Vestimenta</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de filtros</td><td colspan="1" valign="top">Diseñar la interfaz de usuario para los filtros de talla, color y estilo.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">In-process</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Probar los filtros</td><td colspan="1" valign="top">Comprobar si los filtros funcionan correctamente</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">In-process</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">TS03</td><td colspan="1" rowspan="3" valign="top">Implementar funcionalidad de búsqueda</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de búsqueda</td><td colspan="1" valign="top">Diseñar la interfaz de búsqueda en la página web o aplicación.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">In-process</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Integrar búsqueda</td><td colspan="1" valign="top">Integrar la funcionalidad de búsqueda con la interfaz de usuario.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">In-process</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Probar búsqueda</td><td colspan="1" valign="top">Comprobar si la búsqueda funciona correctamente</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">In-process</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US04</td><td colspan="1" rowspan="2" valign="top">Gestión de Encargos </td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Sección de encargos</td><td colspan="1" valign="top">Crear una página sección donde se muestren los encargos de cada proveedor.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Luis Sagastegui</td><td colspan="1" valign="top">To-Do</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Lista de encargos</td><td colspan="1" valign="top">Implementar la funcionalidad de organización de envíos y generar una lista de encargos pendientes.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Luis Sagastegui</td><td colspan="1" valign="top">To-Do</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">US02</td><td colspan="1" rowspan="3" valign="top">Publicar mis productos</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz de Market</td><td colspan="1" valign="top">Programar el Front End de la sección Market</td><td colspan="1" valign="top">8</td><td colspan="1" valign="top">Luis Sagastegui</td><td colspan="1" valign="top">Process</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Interfaz de edit y add products</td><td colspan="1" valign="top">Diseñar una interfaz de usuario para agregar y editar productos.</td><td colspan="1" valign="top">8</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">Process</td></tr>
+<tr><td colspan="1" valign="top">T03</td><td colspan="1" valign="top">Funcionalidad de add y edit</td><td colspan="1" valign="top">Desarrollar la funcionalidad para que los proveedores puedan agregar y publicar sus productos.</td><td colspan="1" valign="top">8</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">Process</td></tr>
+<tr><td colspan="1" rowspan="2" valign="top">US03</td><td colspan="1" rowspan="2" valign="top"><p>Registro de pagos </p><p></p><p></p><p></p><p></p><p></p></td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Interfaz Payment Methods</td><td colspan="1" valign="top">Diseñar la interfaz de usuario para el registro de diferentes tipos de pagos.</td><td colspan="1" valign="top">8</td><td colspan="1" valign="top">Lisseth Saavedra</td><td colspan="1" valign="top">Process</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Opción de métodos de pago</td><td colspan="1" valign="top">Implementar la opción de selección de diferentes métodos de pago y registrar los detalles correspondientes.</td><td colspan="1" valign="top">8</td><td colspan="1" valign="top">Lisseth Saavedra</td><td colspan="1" valign="top">Process</td></tr>
+<tr><td colspan="1" valign="top"></td><td colspan="1" valign="top"></td><td colspan="1" valign="top">TA</td><td colspan="1" valign="top">Routes</td><td colspan="1" valign="top">Programar lo routes, parte del Front-End</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">Alvaro Hidalgo</td><td colspan="1" valign="top">Done</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">TS01</td><td colspan="1" rowspan="3" valign="top">Pagos</td><td colspan="1" valign="top">T01</td><td colspan="1" valign="top">Carrito de compras</td><td colspan="1" valign="top">Implementar carrito de compras que resuma los productos agregados desde el mercado.</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Frezzia Espinoza</td><td colspan="1" valign="top">In-process</td></tr>
+<tr><td colspan="1" valign="top">T02</td><td colspan="1" valign="top">Pago de productos</td><td colspan="1" valign="top">Implementar el pago de los productos con los métodos que tenga el usuario.</td><td colspan="1" valign="top">5</td><td colspan="1" valign="top">Mijael Yen</td><td colspan="1" valign="top">In-Process</td></tr>
+</table>
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review 2
+
+<img src="cap5/sprint2/commits1.png"/>
+
+<img src="cap5/sprint2/commits2.png"/>
+
+#### 5.2.1.4. Execution Evidence for Sprint Review 2
+
+<img src="cap5/sprint2/ee1_s2.png" width="850"/>
+
+<img src="cap5/sprint2/ee2_s2.png" width="850"/>
+
+<img src="cap5/sprint2/ee3_s2.png" width="850"/>
+
+#### 5.2.1.5 Software Deployment Evidence for Sprint Review 2
+
+Link del informe presente: https://github.com/Grupo4-AppsWeb-WX53/InformeMarkdow-G4-WX53
+
+Link desplegado en Firebase: https://look-medic-apps-web.web.app/
+
+#### 5.2.1.6 Team Collaboration Insights during Sprint 2
+
+<img src="cap5/sprint2/insights_sprint2_new.png"/>
