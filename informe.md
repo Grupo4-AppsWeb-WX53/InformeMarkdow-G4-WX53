@@ -1672,15 +1672,9 @@ Tablero en Trello: https://trello.com/b/rWNvKuEh/sprint-2-tp1
 
 #### 5.2.1.3. Development Evidence for Sprint Review 2
 
-| Repository                                                 | Branch | Commit Id                                | Commit Message          | Committed on (Date) |
-|:-----------------------------------------------------------|:-------|:-----------------------------------------|:------------------------|:--------------------|
-| https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | 71cbc4c0be68c53895f63c3e6464f9312a06a6cc | Avance HTML e imagenes  | 08/09/2023          |
-| https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | 3671185c0ef9f332d9fdd545670e60b1b9c270c8 | feat: update index.html | 08/09/2023          |
-| https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | e35f1ef3634ec5e474c1994ac9079a24d5b04c55 | feat: added add.js file | 08/09/2023          |
-| https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | b2c9d6efc57269046243321c2f3efccf7ac675df | i18 casero              | 08/09/2023          |
-| https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | 8f620939ff07660ebfa5d6b0375957e4ceb76fdd | Create style.css        | 08/09/2023          |
-| https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | 763b3c690dd372ef610011845a7adf879df108a3 | Update style.css        | 08/09/2023          |
-| https://github.com/Grupo4-AppsWeb-WX53/LandingPage-Project | main   | 79a7d73eb1e18583133d3ffa211233e473027aec | Update style.css        | 08/09/2023          |
+<img src="cap5/sprint2/commits1.png"/>
+
+<img src="cap5/sprint2/commits2.png"/>
 
 #### 5.2.1.4. Execution Evidence for Sprint Review 2
 
@@ -1692,6 +1686,10 @@ Tablero en Trello: https://trello.com/b/rWNvKuEh/sprint-2-tp1
 
 #### 5.2.1.5 Software Deployment Evidence for Sprint Review 2
 
+Link del informe presente: https://github.com/Grupo4-AppsWeb-WX53/InformeMarkdow-G4-WX53
 
+Link desplegado en Firebase: https://look-medic-apps-web.web.app/
 
 #### 5.2.1.6 Team Collaboration Insights during Sprint 2
+
+<img src="cap5/sprint2/insights_sprint2_new.png"/>
