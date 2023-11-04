@@ -1693,3 +1693,47 @@ Link desplegado en Firebase: https://look-medic-apps-web.web.app/
 #### 5.2.1.6 Team Collaboration Insights during Sprint 2
 
 <img src="cap5/sprint2/insights_sprint2_new.png"/>
+
+### 5.2.3 Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+
+| Sprint #                        | Sprint 3                                             |
+|:--------------------------------|:-----------------------------------------------------|
+| Sprint Planning Background      |                                                      |
+| Date                            | 16/09/2023                                           |
+| Time                            | 09:00 horas                                          |
+| Location                        | Virtual (Discord)                                    |
+| Prepared By                     | Mijael Yen Quispe                                    |
+| Attendees (to planning meeting) | Todo el equipo                                       |
+| Sprint 2 Review Summary         | Entrega del Frontend                                 |
+| Sprint 2 Retrospective Summary  | Todo el grupo está satisfecho con el resultado       |
+| Sprint 3 Goal                   | Elaborar el backend                                  |
+| Sprint 3 Velocity               | 20                                                   |
+| Sum of Story Points             | 18                                                   |
+
+#### 5.2.3.2. Sprint Backlog 3
+
+<img src="cap5/sprint3/trello2.PNG"/>
+
+#### 5.2.3.3. Development Evidence for Sprint Review 3
+
+<img src="cap5/sprint3/commits.PNG"/>
+
+#### 5.2.3.4. Execution Evidence for Sprint Review 3
+
+<img src="cap5/sprint3/exec1.jpg"/>
+
+<img src="cap5/sprint3/exec2.jpg"/>
+
+<img src="cap5/sprint3/exec3.png"/>
+
+<img src="cap5/sprint3/exec4.jpg"/>
+
+#### 5.2.3.5 Software Deployment Evidence for Sprint Review 3
+
+Link del informe presente: https://github.com/Grupo4-AppsWeb-WX53/InformeMarkdow-G4-WX53
+
+#### 5.2.3.6 Team Collaboration Insights during Sprint 3
+
+<img src="cap5/sprint3/insights3.PNG"/>
