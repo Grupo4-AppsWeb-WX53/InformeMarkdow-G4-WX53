@@ -1716,6 +1716,8 @@ Link desplegado en Firebase: https://look-medic-apps-web.web.app/
 
 <img src="cap5/sprint3/trello2.PNG"/>
 
+<img src="cap5/sprint3/backlog3.PNG"/>
+
 #### 5.2.3.3. Development Evidence for Sprint Review 3
 
 <img src="cap5/sprint3/commits.PNG"/>
