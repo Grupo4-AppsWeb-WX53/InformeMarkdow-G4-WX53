@@ -1722,6 +1722,8 @@ Link desplegado en Firebase: https://look-medic-apps-web.web.app/
 
 <img src="cap5/sprint3/commits.PNG"/>
 
+<img src="cap5/sprint3/INSIGHTSALVARO.jpg"/>
+
 #### 5.2.3.4. Execution Evidence for Sprint Review 3
 
 <img src="cap5/sprint3/exec1.jpg"/>
