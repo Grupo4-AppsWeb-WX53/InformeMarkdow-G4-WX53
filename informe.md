@@ -1714,7 +1714,7 @@ Link desplegado en Firebase: https://look-medic-apps-web.web.app/
 
 #### 5.2.3.2. Sprint Backlog 3
 
-<img src="cap5/sprint3/trello2.PNG"/>
+<img src="cap5/sprint3/sprint3-trello.PNG"/>
 
 <img src="cap5/sprint3/backlog3.PNG"/>
 
@@ -1735,6 +1735,10 @@ Link desplegado en Firebase: https://look-medic-apps-web.web.app/
 #### 5.2.3.5 Software Deployment Evidence for Sprint Review 3
 
 Link del informe presente: https://github.com/Grupo4-AppsWeb-WX53/InformeMarkdow-G4-WX53
+
+Links de los repositorios:
+https://github.com/maiyq1/backend-intento2
+https://github.com/Grupo4-AppsWeb-WX53/Capstone-Backend 
 
 #### 5.2.3.6 Team Collaboration Insights during Sprint 3
 
