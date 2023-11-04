@@ -14,7 +14,7 @@ WX53
 
 Naldo Reupo-Musayon Gastulo
 
-## Reporte TP1
+## Reporte TB2
 
 **Nombre del startup:** SoftPage
 
